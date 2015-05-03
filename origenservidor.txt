@@ -1,0 +1,2 @@
+este archivo se creo directamente en el servidor de github
+se debe sincronizar el proyecto de cada programador para que actualice los cambios en local
